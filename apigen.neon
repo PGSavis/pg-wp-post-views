@@ -1,0 +1,7 @@
+source:
+    E:\Web Resources\CMS\wordpress\pg-wp-post-views
+
+destination: api
+
+noSourceCode: yes
+title: PGSavis
