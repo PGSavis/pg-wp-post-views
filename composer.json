@@ -1,0 +1,7 @@
+{
+    "name": "jamal1364750/pg-wp-post-views",
+    "description": "A Class ForShow Post Views In WordPress",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
